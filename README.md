@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><a href="https://frontendmasters.com/courses/advanced-remix/">💿 Advanced Remix Workshop</a></h1>
+  <h1 align="center">💿 Advanced Remix</h1>
   <p>
     Remix enables you to build fantastic user experiences for the web and feel
     happy with the code that got you there. In this workshop, we'll look at some
@@ -8,20 +8,6 @@
 </div>
 
 <hr />
-
-<!-- prettier-ignore-start -->
-[![Build Status][build-badge]][build]
-[![GPL 3.0 License][license-badge]][license]
-[![Code of Conduct][coc-badge]][coc]
-<!-- prettier-ignore-end -->
-
-## Prerequisites
-
-- Some
-  [experience with JavaScript](https://kentcdodds.com/blog/javascript-to-know-for-react)
-- Some [experience with React](https://kcd.im/beginner-react)
-- Some [experience with Node.js](https://nodejs.dev/learn)
-- Some [experience with Remix](https://remix.run/docs/en/1.15.0/tutorials/blog)
 
 ## System Requirements
 
@@ -133,25 +119,4 @@ doing, so we limit the diff to only the `app` directory (where almost all of
 your code changes happen). You'll need to ignore any changes to
 `styles/tailwind.css` however. That's a generated file. Sorry about that.
 
-## Workshop Feedback
 
-Each exercise has an Elaboration and Feedback link. Please fill that out after
-the exercise and instruction.
-
-At the end of the workshop, please go to this URL to give overall feedback.
-Thank you! https://kcd.im/remix-advanced-ws-feedback
-
-<!-- prettier-ignore-start -->
-[npm]: https://www.npmjs.com/
-[node]: https://nodejs.org
-[git]: https://git-scm.com/
-[build-badge]: https://img.shields.io/github/workflow/status/FrontendMasters/advanced-remix/%E2%9C%85%20Validate/main?logo=github&style=flat-square
-[build]: https://github.com/FrontendMasters/advanced-remix/actions?query=workflow%3Avalidate
-[license-badge]: https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg?style=flat-square
-[license]: https://github.com/FrontendMasters/advanced-remix/blob/main/LICENSE
-[coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://kentcdodds.com/conduct
-[win-path]: https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/
-[mac-path]: http://stackoverflow.com/a/24322978/971592
-[issue]: https://github.com/FrontendMasters/advanced-remix/issues/new
-<!-- prettier-ignore-end -->
